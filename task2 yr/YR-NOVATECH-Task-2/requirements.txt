@@ -1,0 +1,13 @@
+# YR NOVATECH — Task 2
+# Data Collection & Preprocessing Dashboard
+# Compatible with Python 3.11, 3.12, 3.13, 3.14+
+
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+requests
